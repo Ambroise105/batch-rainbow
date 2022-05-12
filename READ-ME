@@ -1,0 +1,7 @@
+Batch script for deployment of Rainbow client on Active Directory Library with Group Policy Object (GPO).
+
+- Microsoft Visual Studio 2015 (Minimal + Additionnal) 
+- Microsoft Visual Studio for Office 2010
+- Open Rainbow by Alcatel Lucent
+
+Verif by creating file on c: 
